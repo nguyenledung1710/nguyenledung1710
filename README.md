@@ -33,18 +33,28 @@
   <img src="https://img.icons8.com/color/48/000000/trello.png"/>
 </p>
 
+
+
+
 ## Activities:
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenledung1710&show_icons=true&theme=tokyonight&bg_color=ffffff)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyenledung1710&theme=radical&background=FFFFFF&dates=000000)
+
+![nguyenledung1710's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenledung1710&theme=vue&custom_title=Theme+vue&radius=16&hide_border=true&bg_color=ffffff&point=FFD700)
+
 
 <table style="width:100%;">
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenledung1710&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" alt="ledung" width="100%"/>
-      <!--<img src="https://github-readme-stats.vercel.app/api?username=nguyenledung1710&bg_color=FFFFFF00&text_color=179fa3&show_icons=true&count_private=true&include_all_commits=true&custom_title=Hoạt%20động%20trên%20Github" alt="ledung" width="100%"/> -->
+    <td style="width:50%; vertical-align:middle;">
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nguyenledung1710&bg_color=FFFFFF00&text_color=179fa3&layout=compact&hide=CSS&langs_count=10&custom_title=Top%20ngôn%20ngữ%20được%20dùng" 
+           alt="ledung" style="width:100%; height:300px; object-fit:contain;"/>
     </td>
-    <td>
-      <p align="center"> 
-        <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" alt="dev" width="100%"/>
-      </p>
+    <td style="width:50%; vertical-align:middle;">
+      <img src="https://cdn.dribbble.com/users/1059583/screenshots/4171367/coding-freak.gif" 
+           alt="dev" style="width:100%; height:300px; object-fit:contain;"/>
     </td>
   </tr>
 </table>
+
+
