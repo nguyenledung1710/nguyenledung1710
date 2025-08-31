@@ -38,8 +38,12 @@
 
 ## Activities:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=nguyenledung1710&show_icons=true&theme=tokyonight&bg_color=ffffff)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=nguyenledung1710&theme=radical&background=FFFFFF&dates=000000)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=nguyenledung1710&show_icons=true&theme=tokyonight&bg_color=ffffff" alt="GitHub Stats"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenledung1710&theme=radical&background=FFFFFF&dates=000000" alt="GitHub Streak"/>
+</p>
+
+
 
 ![nguyenledung1710's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=nguyenledung1710&theme=vue&custom_title=Theme+vue&radius=16&hide_border=true&bg_color=ffffff&point=FFD700)
 
