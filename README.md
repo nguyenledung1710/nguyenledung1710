@@ -38,10 +38,9 @@
 
 ## Activities:
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nguyenledung1710&show_icons=true&theme=tokyonight&bg_color=ffffff" alt="GitHub Stats"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenledung1710&theme=radical&background=FFFFFF&dates=000000" alt="GitHub Streak"/>
-</p>
+| <img src="https://github-readme-stats.vercel.app/api?username=nguyenledung1710&show_icons=true&theme=tokyonight&bg_color=ffffff" alt="GitHub Stats"/> | <img src="https://github-readme-streak-stats.herokuapp.com/?user=nguyenledung1710&theme=radical&background=FFFFFF&dates=000000" alt="GitHub Streak"/> |
+|---|---|
+
 
 
 
